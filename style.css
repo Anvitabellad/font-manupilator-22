@@ -1,0 +1,35 @@
+body
+{
+    background-color: burlywood;
+}
+
+h1 
+{
+    font-size: 32px;
+    color: indigo;
+    font-weight: bold;
+}
+
+.note
+{
+    font-size: 15px;
+    color:maroon;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(19, 16, 16);
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas 
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
